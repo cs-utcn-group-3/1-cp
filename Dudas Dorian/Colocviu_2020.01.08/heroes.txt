@@ -1,0 +1,12 @@
+Anduin,D,20
+Jaina,D,28
+Khadgar,H,23
+Bolvar,T,29
+Tirion,H,25
+Varyan,D,26
+Malygos,H,28
+Thrall,D,27
+Illidan,D,29
+Malfurion,H,31
+Mannoroth,T,21
+Sylvanas,D,28
