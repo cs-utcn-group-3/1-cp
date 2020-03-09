@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578998111 source:c:\users\dorian\desktop\dorian\cp - lab\1-cp\dudas dorian\colocviu_2020.01.08\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

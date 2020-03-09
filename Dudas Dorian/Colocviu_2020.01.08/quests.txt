@@ -1,0 +1,5 @@
+Kill Hogger,DDTH,90,10
+Boars! oh Boars,D,21,29
+Deadmines,THDDD,89,30
+Extermin8,HT,41,20
+Rats Aztek,TTTHHHH,61,190
